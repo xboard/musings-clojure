@@ -1,4 +1,4 @@
 musings-clojure
 ===============
 
-Musings on Clojure
+Musings on Clojure.
